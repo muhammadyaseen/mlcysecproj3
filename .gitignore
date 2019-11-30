@@ -1,3 +1,19 @@
+
+meta.txt
+data/vec
+data-debug/
+.idea
+*.swp
+data/*.tar.gz
+data/train
+data/train_*
+data/test
+__pycache__
+.ipynb_checkpoints
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
